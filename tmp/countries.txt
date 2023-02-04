@@ -1,0 +1,4 @@
+Countries,Traveled
+United Kingdom,1
+Chile,1
+Korea,1

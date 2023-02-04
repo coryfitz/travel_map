@@ -1,3 +1,7 @@
 from django.db import models
 
-# Create your models here.
+class CountryInput(models.Model):
+    countries = models.TextField()
+
+    def __str__(self):
+        return self.countries
